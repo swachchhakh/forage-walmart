@@ -1,5 +1,4 @@
-# Task 4
-This repo contains all the data necessary to get started on task 4, good luck!
+
 # Shipping Data Processor
 
 This project processes shipping data from multiple CSV files and populates a SQLite database with the extracted information.
