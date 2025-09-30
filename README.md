@@ -73,7 +73,18 @@ Still building the workspace index, response may be less accurate.
 
 Here is a sample README.md for your project:
 
-. ├── data/ │ ├── shipping_data_0.csv │ ├── shipping_data_1.csv │ ├── shipping_data_2.csv ├── script.py ├── README.md └── venv/
+├── README.md
+├── data
+│   ├── shipping_data_0.csv
+│   ├── shipping_data_1.csv
+│   └── shipping_data_2.csv
+├── script.py
+├── shipment_database.db
+└── venv
+    ├── bin
+    ├── include
+    ├── lib
+    └── pyvenv.cfg
 
 
 ## Usage
